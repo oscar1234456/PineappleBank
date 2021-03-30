@@ -1,4 +1,6 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![](https://i.imgur.com/WWbFmFv.png =100x)![](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png =100x)
+
+
 # Pineapple Bank 🍍
 An Social Application based on sharing leftover with others. Users can publish or holding leftover party through this applicaion, also those in need can use this appliaction to pick up the leftovers.
 
@@ -115,7 +117,7 @@ geocoding: ^1.0.5
 
 ## Architecture 🗂
 - Models
-    - Define the Data Model that can store fetch data from Firestore. 
+    - Define the Data Model that can store fetch data from Firestore.
         1. event (Leftover event party)
         2. food (Store food in database)
         3. foodPost
@@ -172,5 +174,6 @@ geocoding: ^1.0.5
 * [Add Custom Marker Images to your Google Maps in Flutter](https://pub.dev/packages/google_maps_flutter)
 
 ###### tags: `Flutter2` `Firebase` `Solution Challenge` `Leftover sharing Platform`
+
 
 

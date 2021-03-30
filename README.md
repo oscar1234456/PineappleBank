@@ -1,5 +1,4 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![](https://i.imgur.com/WWbFmFv.png =100x)![](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png =100x)
-
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  <img src="https://i.imgur.com/WWbFmFv.png" width="100"/><img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png" width="100"/>
 
 # Pineapple Bank 🍍
 An Social Application based on sharing leftover with others. Users can publish or holding leftover party through this applicaion, also those in need can use this appliaction to pick up the leftovers.

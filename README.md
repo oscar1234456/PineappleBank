@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # Pineapple Bank 🍍
 An Social Application based on sharing leftover with others. Users can publish or holding leftover party through this applicaion, also those in need can use this appliaction to pick up the leftovers.
 

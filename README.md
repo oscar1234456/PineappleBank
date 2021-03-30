@@ -116,53 +116,60 @@ geocoding: ^1.0.5
 ## Architecture 🗂
 - Models
     - Define the Data Model that can store fetch data from Firestore. 
-    1. event (Leftover event party)
-    2. food (Store food in database)
-    3. foodPost
-    4. message (still developing)
-    5. place 
-    6. post (Store post data binding with food)
-    7. user (Store user data in our project)
+        1. event (Leftover event party)
+        2. food (Store food in database)
+        3. foodPost
+        4. message (still developing)
+        5. place
+        6. post (Store post data binding with food)
+        7. user (Store user data in our project)
 - Screen/Home
     - Store the dart file that design for the interface after the user has passed the authentication which includes search article/event page, publish your leftover page, personal profile page, etc.
-    1. container_transition(Animation effect)
-    2. foodFindEventPage(All event posts)
-    3. foodFindFoodPage(All food posts)
-    4. foodFocusPage(Expiring leftovers and event)
-    5. foodPineapplePage(Preset articles and post class)
-    6. home(call mainPage)
-    7. mainPage(Add post or taggle tab)
-    8. placePage(the Map Page)
-    9. placeSelect(Map selector)
-    10. PostEditPage(Add new food post/all user)
-    11. PostEditPage_Event(Add new event post(volunter only))
-    12. presetItem(Preset Saved Page and Preset Marked Page)
-    13. ProfilePage(User information, badges, Food Trace, Event, Setting .etc)
+        1. container_transition(Animation effect)
+        2. foodFindEventPage(All event posts)
+        3. foodFindFoodPage(All food posts)
+        4. foodFocusPage(Expiring leftovers and event)
+        5. foodPineapplePage(Preset articles and post class)
+        6. home(call mainPage)
+        7. mainPage(Add post or taggle tab)
+        8. placePage(the Map Page)
+        9. placeSelect(Map selector)
+        10. PostEditPage(Add new food post/all user)
+        11. PostEditPage_Event(Add new event post(volunter only))
+        12. presetItem(Preset Saved Page and Preset Marked Page)
+        13. ProfilePage(User information, badges, Food Trace, Event, Setting .etc)
 - Screen/Authenticate
     - Store the dart file that design for the interface before the user pass the authentication.
-    1. authenticate (switch between register page and sign_in page)
-    3. register (register new account in our app)
-    4. sign_in (login our app by your account)
+        1. authenticate (switch between register page and sign_in page)
+        3. register (register new account in our app)
+        4. sign_in (login our app by your account)
 - Services
     - Design the authenticate method including Email/Password Registration/Sign-in, Social auth, Create FirebaseUser method, etc.
-    1. auth
-    2. database
+        1. auth
+        2. database
 - Util
     - Store some utility method that can be implemented in other file or class including loading screen, upload/fetch data from Firestore method, alertdialog widget, etc., also in Util files we define some constant in order to modify our hinttext, background color and screen size more convinent.
-    1. cardSlider
-    2. constants
-    3. customIcon
-    4. dataprocess (tidy up data process function in this file)
-    5. findEventCardList
-    6. findFoodCardList
-    7. loading (generate loading screen in our app)
-    8. loadingIndicator
-    9. mapLoadingDialog
+        1. cardSlider
+        2. constants
+        3. customIcon
+        4. dataprocess (tidy up data process function in this file)
+        5. findEventCardList
+        6. findFoodCardList
+        7. loading (generate loading screen in our app)
+        8. loadingIndicator
+        9. mapLoadingDialog
 
 ## Reference Sources
 * [Firebase Authentication](https://firebase.flutter.dev/docs/auth/usage)
 * [Cloud Firestore](https://firebase.flutter.dev/docs/firestore/usage)
 * [Cloud Storage](https://firebase.flutter.dev/docs/storage/usage)
+* [Material Design](https://material.io)
+* [MDC-101 Flutter: Material Components (MDC) Basics (Flutter)](https://codelabs.developers.google.com/codelabs/mdc-101-flutter#0)
+* [MDC 102 Flutter: Material Structure and Layout](https://codelabs.developers.google.com/codelabs/mdc-102-flutter)
+* [MDC 103 Flutter: Material Theming with Color, Shape, Elevation, and Type](https://codelabs.developers.google.com/codelabs/mdc-103-flutter)
+* [MDC 104 Flutter: Material Advanced Components](https://codelabs.developers.google.com/codelabs/mdc-104-flutter)
+* [Google Maps Flutter](https://pub.dev/packages/google_maps_flutter)
+* [Add Custom Marker Images to your Google Maps in Flutter](https://pub.dev/packages/google_maps_flutter)
 
 ###### tags: `Flutter2` `Firebase` `Solution Challenge` `Leftover sharing Platform`
 

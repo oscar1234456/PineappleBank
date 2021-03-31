@@ -174,10 +174,10 @@ geocoding: ^1.0.5
 * [Add Custom Marker Images to your Google Maps in Flutter](https://pub.dev/packages/google_maps_flutter)
 
 ## Authors
-- Oscar Chen(陳泰元)<TW>, s110616038@stu.ntue.edu.tw
-- Jessie Hsieh(謝妤婕)<TW>, jessie60125@gmail.com
-- Sean Chang(張子賢)<TW>, chungsean74@gmail.com
-- Alec Chen(陳碾曆)<HK>, alecchan1995@gmail.com
+- Oscar Chen(陳泰元)[TW], s110616038@stu.ntue.edu.tw
+- Jessie Hsieh(謝妤婕)[TW], jessie60125@gmail.com
+- Sean Chang(張子賢)[TW], chungsean74@gmail.com
+- Alec Chen(陳碾曆)[HK], alecchan1995@gmail.com
 
 ## LICENSE
 Under [APACHE2.0](https://opensource.org/licenses/Apache-2.0) LICENCE

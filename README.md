@@ -69,7 +69,7 @@ geocoding: ^1.0.5
 * Operating Process
 ![](https://i.imgur.com/QhY6Y1v.png)
 
-## Project JSON Tree
+## Firebase Firestore JSON Tree
 ```
 --user
 	-- user_id

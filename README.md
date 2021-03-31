@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  <img src="https://i.imgur.com/WWbFmFv.png" width="100"/><img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png" width="100"/>
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  <img src="https://i.imgur.com/WWbFmFv.png" width="100"/><img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png" width="100"/> <img src="https://1000logos.net/wp-content/uploads/2020/05/Google-Maps-Logo.png" width="100"/>
 
 # Pineapple Bank 🍍
 An Social Application based on sharing leftover with others. Users can publish or holding leftover party through this applicaion, also those in need can use this appliaction to pick up the leftovers.
@@ -171,6 +171,18 @@ geocoding: ^1.0.5
 * [MDC 104 Flutter: Material Advanced Components](https://codelabs.developers.google.com/codelabs/mdc-104-flutter)
 * [Google Maps Flutter](https://pub.dev/packages/google_maps_flutter)
 * [Add Custom Marker Images to your Google Maps in Flutter](https://pub.dev/packages/google_maps_flutter)
+
+## Authors
+- Oscar Chen(陳泰元)<TW>, s110616038@stu.ntue.edu.tw
+- Jessie Hsieh(謝妤婕)<TW>, jessie60125@gmail.com
+- Sean Chang(張子賢)<TW>, chungsean74@gmail.com
+- Alec Chen(陳碾曆)<HK>, alecchan1995@gmail.com
+
+## LICENSE
+Under [APACHE2.0](https://opensource.org/licenses/Apache-2.0) LICENCE
+
+## Get Stuck?
+Welcome to send us Email!
 
 ###### tags: `Flutter2` `Firebase` `Solution Challenge` `Leftover sharing Platform`
 

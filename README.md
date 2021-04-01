@@ -8,7 +8,7 @@ An Social Application based on sharing leftover with others. Users can publish o
 Please Click [Here](https://youtu.be/hYzaIgT2Pzw)
 
 ## Before You Started ❗
-1. Please Create **Your Own Firebase Project**, and **download the google-service.json file** put them in **solution_challenge_joas\android\app\google-services.json**
+1. Please Create **Your Own Firebase Project**, and **download the google-service.json file** put them in **PineappleBank\android\app\google-services.json**
 2. Get the API key of **Geocoding API** and **Maps SDK for Android** on Google Cloud Platform
 
 

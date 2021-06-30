@@ -202,7 +202,7 @@ path_provider: ^1.6.28
 * [Building chat app with Flutter and Firebase](https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
 * [Train and deploy on-device image classification model with AutoML Vision in ML Kit](https://codelabs.developers.google.com/codelabs/automl-vision-edge-in-mlkit#0)
 * [On-Device Machine Learning: Train And Run TensorFlow Lite Models In Your Flutter Apps](https://medium.com/google-cloud/on-device-machine-learning-train-and-run-tensorflow-lite-models-in-your-flutter-apps-15ea796e5ad4)
-* [Our Week Report 5/2](https://docs.google.com/presentation/d/1B_IkPqM0V4rDdA7r3wdNEt8WhR8VdM-hBwyOITrn6HM/edit?usp=sharing)
+* [Our Week Report 5/28](https://docs.google.com/presentation/d/1B_IkPqM0V4rDdA7r3wdNEt8WhR8VdM-hBwyOITrn6HM/edit?usp=sharing)
 * [Our Week Report 6/4](https://docs.google.com/presentation/d/1zZ-U0glhuxLmawDho-Qjzqcy65I_pgzI_Eul4z8fH_w/edit?usp=sharing)
 
 ## Authors

@@ -76,7 +76,7 @@ path_provider: ^1.6.28
 |           **Signin Page**            |            **Main Page**            |               **Map**                |           **Profile Page**           |
 |:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
 | ![](https://i.imgur.com/UCPK1jB.jpg) |![](https://i.imgur.com/SYIxuxI.png)|![](https://i.imgur.com/xTy2W5K.png)| ![](https://i.imgur.com/ttYa2Mv.png)|
-|            **Find Food**             |            **Find Event**            |            **Post Edit**             |            **Food Post***            |
+|            **Find Food**             |            **Find Event**            |            **Post Edit**             |            **Food Post**            |
 | ![](https://i.imgur.com/B0x4TvA.jpg)| ![](https://i.imgur.com/uDSc5s7.jpg)| ![](https://i.imgur.com/1okxOkK.jpg) | ![](https://i.imgur.com/nyvwZsx.jpg)|
 |            **Chat List**             |           **Chat Window**            |           **Food Detect**            |            **Food Trace**            |
 | ![](https://i.imgur.com/4ZC2Ns8.png)| ![](https://i.imgur.com/sq1CwtW.png)| ![](https://i.imgur.com/Qm9p39U.png)|![](https://i.imgur.com/qkr3sMh.jpg)|
